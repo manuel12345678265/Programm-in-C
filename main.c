@@ -98,6 +98,5 @@ void zeigeAuswertung(char spielerNamen[][MAX_NAME], int spielerPunkte[], int anz
             printf("%s ", spielerNamen[i]);
         }
     }
-    printf("\n=============================\n");
 }
 
